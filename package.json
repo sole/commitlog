@@ -1,0 +1,11 @@
+{
+  "name": "commitlog",
+  "version": "1.0.0",
+  "description": "don't ask. just don't.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sole",
+  "license": "GPLv3"
+}
